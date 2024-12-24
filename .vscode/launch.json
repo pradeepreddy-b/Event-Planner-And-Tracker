@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EventApplication<event-planner>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.eventplanner.EventApplication",
+            "projectName": "event-planner",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
